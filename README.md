@@ -4,13 +4,13 @@ This document contains a large list of graphics programming links I found from s
 This list was put together quickly, so links from different topics and authors are not combined together.
 
 # Table of contents
-1. [Graphics programming virtual meetup (GPVM)](#gpvm)
+1. [[README#Graphics programming virtual meetup list|Graphics programming virtual meetup list]]
 2. [[README#Kosua20]]
 3. [Books](#books)
     1. [Jendrik Illner](#jendrik)
 
-## Graphics programming virtual meetup list <a id="gpvm"></a>
-https://github.com/Graphics-Programming-Virtual-Meetup/resources?tab=readme-ov-file
+## Graphics programming virtual meetup list
+![[https://github.com/Graphics-Programming-Virtual-Meetup/resources?tab=readme-ov-file]]
 
 ## Kosua20
 https://gist.github.com/kosua20/a337366c6fd2871f73022da8e69e8b76#motion-blur
