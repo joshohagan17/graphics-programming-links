@@ -10,8 +10,8 @@ This list was put together quickly, so links from different topics and authors a
 # Table of contents
 1. [Graphics programming virtual meetup (GPVM)](#gpvm)
 2. [Kosua](#kosua)
-3. [Books](#books)
-    1. [Jendrik Illner](#jendrik)
+3. [Books](#books2)
+4. [Real-time rendering portal](#real-time-rendering-portal)
 
 # Graphics programming virtual meetup list <a id="gpvm"></a>
 https://github.com/Graphics-Programming-Virtual-Meetup/resources?tab=readme-ov-file
@@ -388,6 +388,8 @@ See also [Assets/Materials](#materials) for PBR materials
 - [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html)
 <!-- markdown-link-check-disable-next-line -->
 - [Basics of physically-based rendering](https://www.researchgate.net/publication/262326548_Basics_of_physically-based_rendering)
+- [Moving Frostbite to Physically Based Rendering 3.0](https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf)
+
 ## Textures
 ### Mipmapping
 - [Pyramidal Parametrics](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf) - The original Mipmap paper.
@@ -1282,6 +1284,45 @@ https://gist.github.com/kosua20/a337366c6fd2871f73022da8e69e8b76#motion-blur
 - https://www.backoldgaming.com/topic/read/lart-de-la-sync  
 - https://www.bigmessowires.com/2023/10/04/classic-macintosh-video-signals-demystified-designing-a-mac-to-vga-adapter-with-lm1881/  
 
-# Books <a id="books"></a>
+# Books <a id="books2"></a>
 
-## Jendrik Illner <a id="jendrik"></a>
+## Jendrik Illner reading list
+https://www.jendrikillner.com/post/reading-list/
+
+## 3D Math Primer for Graphics and Game Development - 2011
+https://gamemath.com/
+
+## Foundations of game engine development - Rendering (2019)
+https://foundationsofgameenginedev.com/
+
+## Foundations of game engine development - Mathematics (2016)
+https://foundationsofgameenginedev.com/
+
+## Real-Time Rendering 4th Edition
+https://www.realtimerendering.com/
+
+## Ray tracing in a weekend series
+https://raytracing.github.io/
+
+## PBRT
+https://pbrt.org/
+
+## Computer Graphics - Principles and Practice
+https://www.amazon.com.au/Computer-Graphics-Principles-Practice-Practices/dp/0321399528
+
+## Fundamentals of Computer Graphics (2021)
+https://www.amazon.com.au/Fundamentals-Computer-Graphics-Steve-Marschner-dp-0367505037/dp/0367505037
+
+## ShaderX/GPU Pro/GPU Zen Books
+https://www.realtimerendering.com/resources/shaderx/
+
+## GPU Gems
+https://developer.nvidia.com/gpugems/gpugems/contributors
+
+## Raytracing Gems
+https://www.realtimerendering.com/raytracinggems/
+
+# Real-time rendering portal <a id="real-time-rendering-portal"></a>
+https://www.realtimerendering.com/portal.html
+
+- Contains a list of useful courses, books, conference notes, and more.
