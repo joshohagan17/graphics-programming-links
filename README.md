@@ -1054,7 +1054,7 @@ https://gist.github.com/kosua20/a337366c6fd2871f73022da8e69e8b76#motion-blur
 - https://web.archive.org/web/20111113000538/http://www.gamasutra.com/gdce/2001/jensen/jensen_04.htm  
 - https://web.archive.org/web/20180315084809/https://community.eidosmontreal.com/blogs/hitman-ocean-tech  
 - https://www.fxguide.com/featured/assassins-creed-iii-the-tech-behind-or-beneath-the-action/  
-- https://www.gamasutra.com/blogs/PavelZagrebelnyy/20171116/309626/Mud_and_Water_of_SpintiresMudRunner.php  
+- https://www.gamedeveloper.com/programming/mud-and-water-of-spintires-mudrunner#:~:text=THE%20WATER%20OF%20MUDRUNNER
 
 ## Gpu
 - http://betteros.org/tut/graphics1.php  
