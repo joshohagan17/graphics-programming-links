@@ -1,7 +1,7 @@
 # Graphics programming links
-This document contains a large list of graphics programming links I found from some brief googling. This document is incredibly useful when conducting research before implementing a graphics technique in code as there are so many unique ways different tech demos and games tackle the same graphics problems. Many techniques are also buried in the web, so having a consolidated searchable list helps immensely.
-
-This list was put together quickly, so links from different topics and authors are not combined together.
+This document contains a large list of graphics programming links I found from some brief googling. This document is incredibly useful when conducting research before implementing a graphics technique in code as: 
+- There are so many unique ways different tech demos and games tackle the same graphics problems. 
+- Many techniques are also buried in the web, so having a consolidated searchable list helps immensely.
 
 # Possible future improvements
 - Combine similar headings from different repos together
