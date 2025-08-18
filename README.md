@@ -1,23 +1,23 @@
-# Graphics programming resources
+# 🍇 Graphics programming resources
 
-🍇 A searchable list of graphics programming resources to help with programming. 🍇
+A searchable list of graphics programming resources to help with programming.
 
-# Why read this doc?
+# ❓ Why read this doc?
 This document contains a large list of graphics programming resources I found from some googling. This document is incredibly useful when conducting research before implementing a graphics technique in code as:
 - There are so many unique ways different tech demos and games tackle the same graphics problems. 
 - Many techniques are also buried in the web, so having a consolidated searchable list helps immensely.
 
-# Possible future improvements
+# 🔮 Possible future improvements
 - Combine similar headings from different repos together
 - Use git submodules and file embedding to scrape up to date information
 
-# Table of contents
+# 📃 Table of contents
 1. [Kosua](#kosua)
 2. [Graphics programming virtual meetup (GPVM)](#gpvm)
 3. [Books](#books2)
 4. [Real-time rendering portal](#real-time-rendering-portal)
 
-# Kosua <a id="kosua"></a>
+# 🔥 Kosua <a id="kosua"></a>
 https://gist.github.com/kosua20/a337366c6fd2871f73022da8e69e8b76
 
 ## Table of Contents
@@ -644,7 +644,7 @@ https://gist.github.com/kosua20/a337366c6fd2871f73022da8e69e8b76
 - https://www.backoldgaming.com/topic/read/lart-de-la-sync  
 - https://www.bigmessowires.com/2023/10/04/classic-macintosh-video-signals-demystified-designing-a-mac-to-vga-adapter-with-lm1881/  
 
-# Graphics programming virtual meetup list <a id="gpvm"></a>
+# 🔺 Graphics programming virtual meetup list <a id="gpvm"></a>
 https://github.com/Graphics-Programming-Virtual-Meetup/resources?tab=readme-ov-file
 
 ## Table of contents
@@ -1289,7 +1289,7 @@ A bunch of graphics debuggers above also have profiling capabilities.
 
 
 
-# Books <a id="books2"></a>
+# 📔 Books <a id="books2"></a>
 
 ## Jendrik Illner reading list
 https://www.jendrikillner.com/post/reading-list/
@@ -1327,7 +1327,7 @@ https://developer.nvidia.com/gpugems/gpugems/contributors
 ## Raytracing Gems
 https://www.realtimerendering.com/raytracinggems/
 
-# Real-time rendering portal <a id="real-time-rendering-portal"></a>
+# ⌛ Real-time rendering portal <a id="real-time-rendering-portal"></a>
 https://www.realtimerendering.com/portal.html
 
 - Contains a list of useful courses, books, conference notes, and more.
