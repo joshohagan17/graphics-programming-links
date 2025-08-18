@@ -658,7 +658,7 @@ A bunch of graphics debuggers above also have profiling capabilities.
 
 
 # Kosua <a id="kosua"></a>
-https://gist.github.com/kosua20/a337366c6fd2871f73022da8e69e8b76#motion-blur
+https://gist.github.com/kosua20/a337366c6fd2871f73022da8e69e8b76
 
 ## Table of Contents
 - [Render](#render)
