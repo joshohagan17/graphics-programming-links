@@ -1,11 +1,11 @@
-# Graphics programming links
-This document contains a large list of graphics programming links I found from some brief googling. This document is incredibly useful when conducting research before implementing a graphics technique in code as: 
+# Graphics programming resources
+This document contains a large list of graphics programming resources I found from some brief googling. This document is incredibly useful when conducting research before implementing a graphics technique in code as:
 - There are so many unique ways different tech demos and games tackle the same graphics problems. 
 - Many techniques are also buried in the web, so having a consolidated searchable list helps immensely.
 
 # Possible future improvements
 - Combine similar headings from different repos together
-- Use git submodules and file embedding to use up to date information
+- Use git submodules and file embedding to scrape up to date information
 
 # Table of contents
 1. [Graphics programming virtual meetup (GPVM)](#gpvm)
@@ -1292,10 +1292,10 @@ https://www.jendrikillner.com/post/reading-list/
 ## 3D Math Primer for Graphics and Game Development - 2011
 https://gamemath.com/
 
-## Foundations of game engine development - Rendering (2019)
+## Foundations of game engine development - Mathematics (2016)
 https://foundationsofgameenginedev.com/
 
-## Foundations of game engine development - Mathematics (2016)
+## Foundations of game engine development - Rendering (2019)
 https://foundationsofgameenginedev.com/
 
 ## Real-Time Rendering 4th Edition
