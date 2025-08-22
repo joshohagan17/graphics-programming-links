@@ -1,9 +1,9 @@
 # 🍇 Graphics programming resources
 
-A searchable list of graphics programming resources to help with programming.
+A searchable list of real-time graphics programming resources to help with programming.
 
 # ❓ Why read this doc?
-This document contains a large list of graphics programming resources I found from some googling. This document is incredibly useful when conducting research before implementing a graphics technique in code as:
+This document contains a large list of real-time graphics programming resources I found from some googling. This document is incredibly useful when conducting research before implementing a graphics technique in code as:
 - There are so many unique ways different tech demos and games tackle the same graphics problems. 
 - Many techniques are also buried in the web, so having a consolidated searchable list helps immensely.
 
